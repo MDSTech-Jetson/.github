@@ -2,7 +2,7 @@
 
 # Welcome to MDSTech Community! 👋
 
-MDS테크는 AI 플랫폼 구축부터 기술 지원까지 **원스톱으로 제공하는 국내 유일의 End-to-End AI Platform Provider**입니다.  
+MDS테크는 AI 플랫폼 구축부터 기술 지원까지 **원스톱으로 제공하는 국내 유일의 End-to-End AI Platform Provider**  입니다.  
 국내에서 엔터프라이즈, NVIDIA Jetson, Automotive Drive 분야를 담당하는 **국내 총판**으로서, 고객에게 안정적이고 혁신적인 AI 솔루션을 제공합니다.
 
 ## Repositories
