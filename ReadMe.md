@@ -1,4 +1,7 @@
-<img src="https://github.com/MDSTech-Jetson/.github/blob/myungsu/img/mdstech_logo.png"/>
+<p align="center">
+  <img src="https://github.com/MDSTech-Jetson/.github/blob/myungsu/img/mdstech_logo.png?raw=true" width="250"/>
+</p>
+
 
 # Welcome to MDSTech Community! 👋
 
