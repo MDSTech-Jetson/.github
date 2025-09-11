@@ -23,4 +23,3 @@ MDS테크는 AI 플랫폼 구축부터 기술 지원까지 **원스톱으로 제
 - 🌐 회사 홈페이지: [www.mdstech.co.kr](https://www.mdstech.co.kr/index)  
 - 🛒 온라인 스토어: [store.naver.com/mdstech_jetson](https://smartstore.naver.com/nvidia_jetson)  
 - 📝 블로그: [blog.naver.com/mdstec_nvidia](https://blog.naver.com/mdstec_nvidia)
-- 
