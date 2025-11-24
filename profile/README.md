@@ -11,7 +11,6 @@ MDS테크는 AI 플랫폼 구축부터 기술 지원까지 **원스톱으로 제
 - [Jetson Setup Guide](https://github.com/MDSTech-Jetson/Jetson-Setup-Guide): NVIDIA Jetson Dev-kit 및 3rd Party 설치 가이드
 - [Sensing Sample Codes](https://github.com/MDSTech-Jetson/Sensing-Sample-Codes): Jetson 환경에서 센서 및 카메라 활용 샘플 코드
 - [FAQ](https://github.com/MDSTech-Jetson/FAQ): Jetson 초보자를 위한 자주 묻는 질문과 해결 방법 모음.
-- [Q&A](https://github.com/orgs/MDSTech-Jetson/discussions): 온라인 기술 문의 및 지원
 
 ## Contact Us
 
