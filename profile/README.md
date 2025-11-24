@@ -8,8 +8,10 @@ MDS테크는 AI 플랫폼 구축부터 기술 지원까지 **원스톱으로 제
 국내에서 NVIDIA Jetson, Automotive Drive, Enterprise 분야를 담당하는 **국내 총판**으로서, 고객에게 안정적이고 혁신적인 AI 솔루션을 제공합니다.
 
 ## Repositories
-- [Isaac ROS2](): Isaac ROS2 설치 방법부터 카메라 실행 가이드까지, Jetson 환경 기반의 다양한 예제와 문서를 제공
-- [FAQ](https://github.com/MDSTech-Jetson/FAQ): Jetson 초보자를 위한 자주 묻는 질문과 해결 방법 모음.
+- [Isaac ROS2](https://github.com/MDSTech-Jetson/Isaac_ROS2): Isaac ROS2 설치 방법부터 카메라 실행 가이드까지, Jetson 환경 기반의 다양한 예제와 문서를 제공
+- [Trouble Shooting](https://github.com/MDSTech-Jetson/Troubleshooting_Guide): 
+Jetson 환경에서 발생하는 다양한 기술 문제를 해결하기 위해 이슈와 해결 방법을 정리한 트러블슈팅 가이드 모음
+- [FAQ](https://github.com/MDSTech-Jetson/FAQ): Jetson 초보자를 위한 자주 묻는 질문과 해결 방법 모음
 
 ## Contact Us
 
